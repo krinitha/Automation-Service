@@ -1,0 +1,15 @@
+{
+    "200": {
+        "titulo": "Solicitud exitosa",
+        "tipo": "object"
+    },
+    "204": "",
+    "400": {
+        "titulo": "Solicitud incorrecta",
+        "tipo": "object"
+    },
+    "401": {
+        "titulo": "feature/hu-230",
+        "tipo": "object"
+    }
+}
